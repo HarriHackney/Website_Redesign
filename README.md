@@ -18,7 +18,7 @@ SMEs:
 
 This repository is owned by the content team, to enable them to structure and plan the service area redesigns. The redesign just pertains to the flat content on the site and not any forms, transactions or products at this stage. The goal is get as much of the flat content rewritten to meet the new content standards, ultimately improving residents experience on the site, reducing the strain on the inbox and setting up the foundations for the transactions team. 
 
-The redesign team also engages with the comms team to ensure we are delivering a joined up customer experience. 
+The redesign team works in collaboration with the comms team to ensure we are delivering a joined up customer experience. 
 
 ## Ceremonies 
 
